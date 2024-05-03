@@ -1,1 +1,1 @@
-python demo/image_demo.py demo/demo.jpg rtmdet-ins-s --show
+python demo/image_demo.py D:/Temp/Trailer2.jpg rtmdet-ins-s --show
